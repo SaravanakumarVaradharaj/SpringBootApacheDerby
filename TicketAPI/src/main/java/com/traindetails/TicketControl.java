@@ -48,4 +48,8 @@ private TicketService ser;
 	public void deleteTicket(@PathVariable String id) {
 		ser.deleteTicketDetailks(id);
 	}
+	@RequestMapping("/check")
+	public void checkData() {
+		
+	}
 }
