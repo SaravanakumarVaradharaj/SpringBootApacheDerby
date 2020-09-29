@@ -1,0 +1,9 @@
+com\traindetails\TicketApiApplication.class
+com\traindetails\TrainControl.class
+com\traindetails\TicketDetails.class
+com\traindetails\TrainService.class
+com\traindetails\TrainRepository.class
+com\traindetails\TicketControl.class
+com\traindetails\TrainDetails.class
+com\traindetails\TicketService.class
+com\traindetails\TicketRepository.class
